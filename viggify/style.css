@@ -6,6 +6,13 @@
     font-family: 'Anton', sans-serif;
 }
 
+.gpay{
+    line-height: 2rem;
+    background-color: #ffca00;
+    border-radius: 1rem;
+    margin-top: 3rem;
+}
+
 .navbar{
     background-color: #131313;
     padding: 1rem 8rem;
